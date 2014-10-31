@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<palette:CategoryCmp xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:palette="http://www.ibm.com/wbi/2005/eflow_palette" xmlns:utility="http://www.ibm.com/wbi/2005/eflow_utility" xmi:id="Utility">
+  <categoryLabel xsi:type="utility:TranslatableString" key="category.name" bundleName="palette" pluginId="ZipFilePluginPrj"/>
+  <cmpGroups xsi:type="palette:GroupCmp">
+    <cmpEntries xsi:type="palette:ToolEntry" xmi:id="ZipFile" icon16Name="platform:/plugin/ZipFilePluginPrj/icons/full/clcl16/ZipFile.gif" icon32Name="platform:/plugin/ZipFilePluginPrj/icons/full/obj32/ZipFile.gif" toolClassName="com.ibm.etools.mft.flow.editor.MFTNodeCreationTool" toolClassPluginId="com.ibm.etools.mft.flow" nodeURI="ZipFile.msgnode">
+      <entryLabel xsi:type="utility:TranslatableString" key="entry.ZipFile" bundleName="palette" pluginId="ZipFilePluginPrj"/>
+      <entryShortDescription xsi:type="utility:TranslatableString" key="tooltip.ZipFile" bundleName="palette" pluginId="ZipFilePluginPrj"/>
+    </cmpEntries>
+  </cmpGroups>
+</palette:CategoryCmp>
