@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<palette:CategoryCmp xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:palette="http://www.ibm.com/wbi/2005/eflow_palette" xmlns:utility="http://www.ibm.com/wbi/2005/eflow_utility" xmi:id="Utility">
+  <categoryLabel xsi:type="utility:TranslatableString" key="category.name" bundleName="palette" pluginId="UnZipFilePluginPrj"/>
+  <cmpGroups xsi:type="palette:GroupCmp">
+    <cmpEntries xsi:type="palette:ToolEntry" xmi:id="com.ibm.util.node.UnZipFile" icon16Name="platform:/plugin/UnZipFilePluginPrj/icons/full/clcl16/com/ibm/util/node/UnZipFile.gif" icon32Name="platform:/plugin/UnZipFilePluginPrj/icons/full/obj32/com/ibm/util/node/UnZipFile.gif" toolClassName="com.ibm.etools.mft.flow.editor.MFTNodeCreationTool" toolClassPluginId="com.ibm.etools.mft.flow" nodeURI="com/ibm/util/node/UnZipFile.msgnode">
+      <entryLabel xsi:type="utility:TranslatableString" key="entry.com.ibm.util.node.UnZipFile" bundleName="palette" pluginId="UnZipFilePluginPrj"/>
+      <entryShortDescription xsi:type="utility:TranslatableString" key="tooltip.com.ibm.util.node.UnZipFile" bundleName="palette" pluginId="UnZipFilePluginPrj"/>
+    </cmpEntries>
+  </cmpGroups>
+</palette:CategoryCmp>
